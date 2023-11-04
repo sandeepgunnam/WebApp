@@ -1,14 +1,3 @@
 <?php
-<title>Project SUSE</title>
-<body>
-    <nav>
-        <ul>
-            <li>Menu</li>
-            <li>About Us</li>
-        </ul>
-    </nav>
-    <h1>
-        This is a test app
-    </h1>
-</body>
+print "Hello world"
 ?>
